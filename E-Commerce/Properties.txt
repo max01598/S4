@@ -1,0 +1,5 @@
+vrai login : mdeliot
+mtd : 3hx7c6i5
+base : presta_mdeliot
+http://localhost/maboutique/
+192.168.6.30
