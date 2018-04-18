@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="lisview_menu_show_text">Voir le todo</string>
+    <string name="lisview_menu_modify_text">Modifier le todo</string>
+    <string name="lisview_menu_remove_text">Supprimer le todo</string>
+    <string name="tv_titre_text">Titre :</string>
+    <string name="tv_note_text">"Todo : "</string>
+    <string name="tv_correspondant_text">En lien avec :</string>
+    <string name="tv_pour_text">Pour le :</string>
+    <string name="aff_but_quit_text">Quitter</string>
+    <string name="main_menu_ajouter_todo_text">Ajouter un todo</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_Ann">Annuler</string>
+    <string name="titre">Titre :</string>
+    <string name="edit_titre">entrez le titre...</string>
+    <string name="todo">Todo :</string>
+    <string name="edit_todo">entrez votre todo...</string>
+    <string name="PourL">Pour le :</string>
+    <string name="lien">En lien avec :</string>
+    <string name="edit_nom">nom de la personne ...</string>
+    <string name="edit_comm">commentaire ...</string>
+</resources>
